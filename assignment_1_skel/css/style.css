@@ -30,6 +30,10 @@ html, body {
     margin-right: auto;
 }
 
+#team-name {
+    colour: red;
+}
+
 #hud {
     position: absolute;
     top: 0px; /* header is 44px high */
