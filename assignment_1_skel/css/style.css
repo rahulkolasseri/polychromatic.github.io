@@ -71,7 +71,7 @@ html, body {
     1px 1px 0 #000; 
     position: relative;
     z-index: 1000;
-    padding-top: 55px;
+    padding-top: 10%;
     padding-left: 10px;
     padding-bottom: 0px;
     background: rgb(0,0,0);
