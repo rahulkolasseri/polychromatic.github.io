@@ -77,3 +77,25 @@ html, body {
     background: rgb(0,0,0);
     background: rgba(0,0,0,0);
 }
+
+.sensorvalues {
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    text-align: center;
+    width: 14%;
+    position: absolute;
+    z-index: 1000;
+    top: 50%;
+    left: 43%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background: rgba(100,0,0,100);
+
+}
+
