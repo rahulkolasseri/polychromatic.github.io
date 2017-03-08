@@ -99,3 +99,7 @@ html, body {
 
 }
 
+#x-value, #y-value, #z-value {
+    position: relative;
+    z-index: 1000;
+}
